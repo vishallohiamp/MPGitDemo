@@ -19,7 +19,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         /*
          Gaurav sharma module
          */
-        /*New changes.*/
         
         return true
     }
