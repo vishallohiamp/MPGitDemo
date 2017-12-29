@@ -12,6 +12,7 @@ extension String {
         return (self as NSString).size(withAttributes: [NSAttributedStringKey.font: font])
     }
 }
+/*Github changes...*/
 class ViewController: UIViewController {
 
     @IBOutlet weak var collectionTagList:UICollectionView!
