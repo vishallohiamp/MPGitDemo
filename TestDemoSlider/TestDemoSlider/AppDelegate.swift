@@ -19,9 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         /*
          Gaurav sharma module
          */
-        /*
-         Om shanti Om...
-         */
+        
         return true
     }
 
